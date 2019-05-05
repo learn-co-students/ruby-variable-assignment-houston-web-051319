@@ -1,3 +1,4 @@
+greeting = 'Hello World!'
 require_relative '../variable.rb'
 
 RSpec.configure do |config|
